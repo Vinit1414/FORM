@@ -1,0 +1,15 @@
+H1 {
+    display: inline-block;
+    align-items: center;
+    margin-left: 600px;
+}
+
+#ERP {
+    display: inline-block;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 700px;
+    margin-bottom: 100px;
+    background-color: rgb(140, 255, 0);
+    color: brown;
+}
